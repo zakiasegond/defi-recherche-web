@@ -5,6 +5,11 @@
 	Source de l'info : Cultive toi.
 
 
+2/Quelle est la différence entre le Web et Internet ?
+	Internet est un réseau informatique mondial basé sur le protocole IP tandis que le Web est un système qui permet de naviguer de pages en pages sur un navigateur. On parle de système hypertexte.
+	source de l'info : Blog Miximum
+
+
 
 
 
