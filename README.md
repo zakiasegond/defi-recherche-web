@@ -97,17 +97,28 @@ Le mot « Bug » provient de l'anglais, insecte et est entré dans notre langage
 
 10/Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 
+j'en ai trouvé deux qui s'appelle "la cantine" et "Novamélée" sur Toulouse. Les évènements prévus pour juin sont : 
 
+-Les mutations du management dans les entreprises du numérique : Pour son 2ème événement dans la région Occitanie, le CDRT : Club des dirigeants Réseaux et Télécoms, s'associe à l'Association La Mélée pour organiser un dîner - rencontre et débats - sur une thématique cruciale pour nos adhérents respectifs, impliqués dans les technologies de l'information et l'économie numérique : "Les mutations du management dans les entreprises du numérique". Le 14 juin à 19H à La Cantine du Quai : 39 Allées Jules Guesde 31000 TOULOUSE.
 
-
-
-
+-Tables d'hôtes numériques : C’est un temps de rencontre hebdomadaire entre seniors, utilisateurs de différents appareils numériques, tablettes, PC, smartphones, appareils photos et autres pour échanger entre eux sur certaines difficultés ou blocages et aussi sur les usages que les uns et les autres en font. Le 15 juin à 14h à La Cantine du Quai : 39 Allées Jules Guesde 31000 TOULOUSE.
+(source de l'info : http://lacantine-toulouse.org/mur-coworking).
 
 
 
 
 
 11/Quels sont les prochains rendez-vous tech de Toulouse ?
+
+
+
+
+
+
+
+
+
+
 12/Qui est Aaron Swartz ?
 13/Qu’est-ce que le projet GNU ?
 14/Quelles sont les différences entre le Http et le Https ?
