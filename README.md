@@ -5,8 +5,8 @@
 1/Par qui, quand, pourquoi et où a été inventé Internet ?
 
 Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée américaine spécialisée dans la recherche de technologies de pointe a l’idée d’un réseau global d’ordinateurs. Ce n’est qu’en 1969 que 4 ordinateurs seront reliés entre eux par le réseau appelé ARPANET, ces derniers appartenant à 4 universités américaines.
-	
 (Source de l'info : https://cultivetoi.fr/savez-vous-quand-linternet-ete-cree/)
+
 
 
 
@@ -14,6 +14,7 @@ Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée am�
 
 Internet est un réseau informatique mondial basé sur le protocole IP tandis que le Web est un système qui permet de naviguer de pages en pages sur un navigateur. On parle de système hypertexte.
 (source de l'info :https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/).
+
 
 
 
@@ -29,6 +30,7 @@ Internet est un réseau informatique mondial basé sur le protocole IP tandis qu
 
 
 
+
 4/ Que sont le copyright et le copyleft ?
 	
 Le copyright est l'ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une oeuvre de l'esprit originale. Il designe donc un ensemble de lois en application, notamment, dans les pays du "Commonwealth et des Etats-Unis; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tel que la France ou la Belgique).
@@ -36,6 +38,7 @@ Le copyright est l'ensemble des prérogatives exclusives dont dispose une person
 Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur, d'utiliser, d'étudier, de modifier et de diffuser son oeuvre, dans la mesure où cette même autorisation reste préservée. Le concept du copyleft a été introduit au cours des années 70 pour désigner une forme de licences de propriétés intellectuelles.
 (source de l'info : https://fr.wikipedia.org/wiki/Copyright
 		    https://fr.wikipedia.org/wiki/Copyleft)
+
 
 
 
