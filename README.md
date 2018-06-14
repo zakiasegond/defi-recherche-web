@@ -69,9 +69,22 @@ C'est une informaticienne américaine et Rear admiral (lower half) de la marine 
 
 7/Qu'est-ce que Qwant ?
 
+Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats.
+(source de l'info : https://fr.wikipedia.org/wiki/Qwant).
+
+
 
 
 8/Qui est Steve Wozniak ?
+
+
+
+
+
+
+
+
+
 9/D'où vient l'expression "bug informatique" ?
 10/Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 11/Quels sont les prochains rendez-vous tech de Toulouse ?
