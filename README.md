@@ -138,10 +138,17 @@ Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à Ne
 
 
 
-
-
-
 13/Qu’est-ce que le projet GNU ?
+
+Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Le développement du logiciel a débuté en janvier de l'année suivante. De nos jours, il existe plusieurs systèmes d'exploitation libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel. 
+(https://fsfe.org/freesoftware/basics/gnuproject.fr.html).
+
+
+
+
+
+
+
 14/Quelles sont les différences entre le Http et le Https ?
 15/Qui est Richard Stallman ?
 16/Comment fonctionnent les bang de Duck Duck Go ?
