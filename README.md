@@ -187,9 +187,14 @@ Marissa Mayer a aussi travaillé à la conception et au développement de l'inte
 
 
 
-
-
 18/Qu’est-ce qu’une attaque “brute force” ?
+
+Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !
+Ce type d'attaque pirate est en réalité la moins subtile de toutes. Derrière ce concept effrayant de force brute se cache en réalité une technique très simple et très barbare.
+(https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute).
+
+
+
 19/Qui est Linus Torvalds ?
     Quels sont ses plus grands développements ?
 
@@ -201,14 +206,21 @@ Marissa Mayer a aussi travaillé à la conception et au développement de l'inte
 23/Et celle de votre smartphone ?
 24/Qu’est-ce que le développement en cycle V ?
 25/Les Hackers sont-ils des hors-la-loi ?
-Qui a inventé la souris ?
-Qui est Margaret Hamilton ?
-Retrouvez le code source de la mission Apollo 11.
-
+26/Qui a inventé la souris ?
+27/Qui est Margaret Hamilton ?
+28/Retrouvez le code source de la mission Apollo 11.
     Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+29/Qu’est-ce que Agile Manifesto ?
+30/Trouvez un screenshot de la première version de Facebook
 
-Qu’est-ce que Agile Manifesto ?
-Trouvez un screenshot de la première version de Facebook
+
+
+
+
+
+
+
+
 Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 Qu'est-ce que le load balancing ?
 Qu’est-ce que l’Open Source ?
