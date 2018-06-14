@@ -22,6 +22,13 @@
 	(source de l'info : http://www.materiel-informatique.be/localhost.php).
 
 
+4/ Que sont le copyright et le copyleft ?
+	Le copyright est l'ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une oeuvre de l'esprit originale. Il designe donc un ensemble de lois en application, notamment, dans les pays du "Commonwealth et des Etats-Unis; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tel que la France ou la Belgique).
+	Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur, d'utiliser, d'étudier, de modifier et de diffuser son oeuvre, dans la mesure où cette même autorisation reste préservée. Le concept du copyleft a été introduit au cours des années 70 pour désigner une forme de licences de propriétés intellectuelles.
+	(source de l'info : https://fr.wikipedia.org/wiki/Copyright
+			    https://fr.wikipedia.org/wiki/Copyleft)
+
+
 
 
 
