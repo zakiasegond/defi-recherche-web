@@ -131,6 +131,14 @@ Du 26 septembre au 1er octobre, La Mêlée programme plusieurs événements 
 
 12/Qui est Aaron Swartz ?
 
+Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York, était un informaticien, écrivain, militant politique et hacktiviste américain. Très tôt, Swartz s'intéresse à l'informatique, à Internet avec une sensibilité aux projets "open-source" et collaboratifs. À 12 ans, il crée the Info Network, une encyclopédie éditée par les internautes, qui repose sur un principe de collaboration ouvert aux internautes comme Wikipédia. À 13 ans, il reçoit l’ArsDigitaPrize, qui récompense les jeunes gens ayant créé des sites non commerciaux « utiles, éducatifs et collaboratifs ». Le titre lui donne droit à un voyage au MIT, où il rencontre des personnalités importantes du web. À l'âge de 13 ans, sa rencontre avec le juriste et théoricien du droit de l'internet , Lawrence Lessig lors d'une conférence TED fut le point de départ d'une longue collaboration. A 14 ans, il participe à l'élaboration de la spécification 1.0 du format RSS, une technologie permettant de recevoir en direct les mises à jour de sites web. A 15 ans, il contribue au développement informatique de la licence Creative Commons, alternative aux licences du droits d'auteur standard. Dans cette perspective de l'accés libre du droit d'auteur, Aaron Swartz était particulièrement admiratif de Tim Berners-Lee, l'un des principaux créateurs du World Wide Web, du fait de son initiative de laisser sa création libre et gratuite pour qu'elle puisse bénéficier à un large public.
+(https://fr.wikipedia.org/wiki/Aaron_Swartz).
+
+
+
+
+
+
 
 
 13/Qu’est-ce que le projet GNU ?
