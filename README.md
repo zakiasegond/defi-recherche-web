@@ -78,7 +78,6 @@ Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lan
 8/Qui est Steve Wozniak ?
 
 Stephen Gary Wozniak, dit Steve Wozniak, est un informaticien, professeur d'informatique et électronicien américain.
-
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique. Steve Wozniak fait la connaissance de Steve Jobs en 1970 grâce à son voisin Bill Fernandez, alors camarade de classe de Jobs à la Homestead High School. Ils partagent la même passion de l'électronique, ils deviennent amis et réalisent ensemble de nombreux canulars. En octobre 1971, les deux Steve mettent la main sur un article du magazine Esquire qui explique comment fabriquer une blue box, un appareil qui permet de passer des appels longue distance de façon entièrement gratuite en fraudant donc les compagnies téléphoniques, et plus précisément AT&T. Ils décident alors d'en monter et de les vendre pour 150 $ l'unité, pour un total de 200 exemplaires environ. Selon Steve Jobs, cette expérience est à l'origine d'Apple.
 (source de l'info : https://fr.wikipedia.org/wiki/Steve_Wozniak).
 
@@ -88,9 +87,26 @@ Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayn
 
 9/D'où vient l'expression "bug informatique" ?
 
+Le mot « Bug » provient de l'anglais, insecte et est entré dans notre langage.  C’est une erreur dans un programme, dans la programmation ou le câblage d'un composant électronique, entraînant des comportements étranges et rarement désirés dans un système. La plupart des personnes pensent que le mot « bug » prend son origine à cause d’un insecte tombé dans un ordinateur. L’histoire de cette croyance commence en 1946, Grace Murray Hopper une des pionnières de l'informatique, c’est une américaine, mobilisée comme auxiliaire dans la marine américaine et qui fut affectée aux travaux de programmation et d'exploitation de l' ENIAC. (Principale créatrice du COBOL). Dans le laboratoire où elle a continué son travail sur Mark II et Mark III, elle attribue une erreur dans Mark II à un papillon nocturne pris dans un relais, créant le terme bug. L’insecte fut retiré et cette première anomalie a popularisé l’expression bug ou bogue pour représenter les erreurs dans un programme. 
+(source de l'info : http://www.fisheo.com/web_20/2007/01/lorigine_du_ter.html).
+
+
+
+
 
 
 10/Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+
+
+
+
+
+
+
+
+
+
 11/Quels sont les prochains rendez-vous tech de Toulouse ?
 12/Qui est Aaron Swartz ?
 13/Qu’est-ce que le projet GNU ?
