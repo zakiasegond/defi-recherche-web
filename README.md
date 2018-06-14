@@ -202,7 +202,6 @@ Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il contin
 Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). Il a été honoré, avec Shinya Yamanaka, du prix Millennium Technology, en 2012, décerné par la Technology Academy Finland (en) « en reconnaissance pour sa création d'un nouveau système d'exploitation open source pour les ordinateurs ayant conduit au noyau Linux, largement utilisé3. ». Il est également lauréat 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society.
 
     Quels sont ses plus grands développements ?
-
 		Noyaux Linux / Linux
 (https://fr.wikipedia.org/wiki/Linus_Torvalds).
 
@@ -211,8 +210,16 @@ Il a également créé le logiciel de gestion de versions décentralisée Git et
 
 
 
-
 20/Combien coûte un nom de domaine ?
+
+Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu’en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes. Encore une fois, le coût d’un hébergement peut varier en fonction du prestataire et de la prestation que vous avez choisie. Par exemple chez OVH, le coût mensuel par mois au minimum est de 1,99 euros HT avec une capacité d’utilisation de 25 gigas octets et au maximum, 19,99 HT pour une capacité d’utilisation de 500 GO.
+(http://www.nddconline.org/31-combien-coute-un-nom-de-domaine).
+
+
+
+
+
+
 21/Quels sont les différents services d'emailing disponibles ?
    Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
