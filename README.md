@@ -179,6 +179,10 @@ DuckDuckGo a été en forte progression depuis l'affaire PRISM/XKeyscore ; son t
 
 17/Qui est Marissa Mayer ?
 
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!. Lorsqu'elle sort de l'université, elle est sollicitée par quatorze entreprises, mais choisit finalement une petite start-up de deux étudiants de l'université qui lui ont envoyé un courriel intitulé « travailler chez Google ? ». Elle rejoint cette toute jeune entreprise en 1999, en tant que première femme ingénieure dans la société, et vingtième salarié6. Elle dirige la stratégie de gestion des produits de recherche : recherche Internet et d'images, Groupes, Actualités, Google Product Search, Google Labs, Gmail, Orkut, les logiciels Google Desktop, la barre d'outils Google, etc. On lui doit notamment le minimalisme de la page d'accueil du portail.
+Marissa Mayer a aussi travaillé à la conception et au développement de l'interface de recherche de Google, la création de Google Actualités ou encore Gmail et Orkut ainsi que plus d'une centaine de fonctionnalités et produits sur Google.com. Marissa Mayer a déposé plusieurs brevets dans le domaine de l'intelligence artificielle et de la conception d'interfaces. Elle détient un doctorat honorifique en ingénierie de l'Institut de technologie de l'Illinois.
+(https://fr.wikipedia.org/wiki/Marissa_Mayer).
+
 
 
 
