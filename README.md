@@ -29,6 +29,12 @@
 			    https://fr.wikipedia.org/wiki/Copyleft)
 
 
+5/Que sont les Creatives Commons ?
+
+C'est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs oeuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs. L'organisation a créé plusieurs licences, connues sous le nom de licences Creatives Commons. Ces licences, selon leurs choix, ne protègent aucun ou seulement quelques droits relatifs aux oeuvres.
+(source de l'info : https://fr.wikipedia.org/wiki/Creative_Commons)
+
+
 
 
 
