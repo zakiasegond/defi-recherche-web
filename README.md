@@ -58,6 +58,114 @@ C'est une association à but non lucratif dont la finalité est de proposer une 
 
 
 
+6/Qui est Grace Hopper ?
+
+C'est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. Elle est née le 9 décembre 1906 à New York. Elle étudie les mathématiques, la physique et l'économie au Vassar College, et en sort diplômée en 1928. En 1934, elle obtient un doctorat en mathématiques de l'université Yale. En 1943, Grace Hopper s'engage dans la marine américaine. Promue au grade de lieutenant, elle est affectée l'année suivante au Bureau of Ordnance Computation Project de l'université Harvard. Elle travaille dans l'équipe de Howard Aiken sur l'ordinateur Harvard Mark I. Elle fait partie du premier groupe, comptant trois personnes, apprenant à le programmer.
+(source de l'info :https://fr.wikipedia.org/wiki/Grace_Hopper).
+
+
+
+
+
+7/Qu'est-ce que Qwant ?
+
+
+
+8/Qui est Steve Wozniak ?
+9/D'où vient l'expression "bug informatique" ?
+10/Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+11/Quels sont les prochains rendez-vous tech de Toulouse ?
+12/Qui est Aaron Swartz ?
+13/Qu’est-ce que le projet GNU ?
+14/Quelles sont les différences entre le Http et le Https ?
+15/Qui est Richard Stallman ?
+16/Comment fonctionnent les bang de Duck Duck Go ?
+17/Qui est Marissa Mayer ?
+18/Qu’est-ce qu’une attaque “brute force” ?
+19/Qui est Linus Torvalds ?
+    Quels sont ses plus grands développements ?
+
+20/Combien coûte un nom de domaine ?
+21/Quels sont les différents services d'emailing disponibles ?
+   Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+
+22/Quelle est votre adress IP actuelle ?
+23/Et celle de votre smartphone ?
+24/Qu’est-ce que le développement en cycle V ?
+25/Les Hackers sont-ils des hors-la-loi ?
+Qui a inventé la souris ?
+Qui est Margaret Hamilton ?
+Retrouvez le code source de la mission Apollo 11.
+
+    Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+
+Qu’est-ce que Agile Manifesto ?
+Trouvez un screenshot de la première version de Facebook
+Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+Qu'est-ce que le load balancing ?
+Qu’est-ce que l’Open Source ?
+Qu’est-ce que le Bug Bounty ?
+Qu'est-ce qu'une adresse IP v4 ?
+Pourquoi parle-t-on aussi d'adresse IP v6 ?
+Combien coûte un serveur pour héberger mon site perso ?
+Qu’est-ce que le Cowboy coding ?
+Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+Quelles sont les différences entre un software open-source et un software free ?
+Trouvez trois entreprises qui développent des solutions Free & OpenSource
+
+    comment gagnent-elles de l’argent ?
+
+Qui est Phil Zimmermann ?
+Qu’est-ce que le W3C ?
+Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+Que sont les White Hat et les Black Hat ?
+Qu’est-ce qu’une attaque DDoS ?
+Quelles est l'adresse MAC de votre ordinateur ?
+Et de votre smartphone ?
+Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+Qui est Tim Berners-Lee ?
+Comment sont reliés les différents réseaux d'internet ?
+Qu’est-ce que KISS ?
+Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+Qu’est-ce qu’Amazon Web Services - AWS ?
+Qui est Sundar Pichai ?
+Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+Qu'est-ce qu'une Cheatsheet ?
+Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+Qu’est-ce que les joies du code ?
+Qui sont Larry Page et Sergey Brin ?
+Convertissez en binaire
+
+    2, 5, 12, 25, 512
+
+Convertissez en hexadécimal
+
+    2, 5, 12, 25, 512
+
+Convertissez du binaire vers le système “classique” (base 10)
+
+    100, 1011, 11111, 11110110101
+
+Quelles sont les nouveautés apportées par le HTML 5 ?
+Qu’est-ce que ECMAScript 2015 ?
+Quelles nouveautés par rapport à la version précédente ?
+Quelles différences avec ES 6 ?
+Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+Qu’est-ce que xkcd ?
+Qu’est-ce que Mr Robot ?
+Qu’est-ce que OpQuast ?
+Quelles sont les différences entre un client web et un serveur web ?
+
+    Donnez 3 exemples de chaque
+
+
+
+
+
+
+
 
 
 
