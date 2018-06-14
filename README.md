@@ -110,16 +110,29 @@ j'en ai trouvé deux qui s'appelle "la cantine" et "Novamélée" sur Toulouse. L
 
 11/Quels sont les prochains rendez-vous tech de Toulouse ?
 
+-Innovation Days
+C’est un événement à ne pas rater dans le secteur de l’Internet des Objets. Les Innovation Days se déroulent les 22 et 23 septembre à Labège. Organisé par l’IoT Valley, qui regroupe des start-up autour de l’Internet des Objets, cet événement est très attendu dans le milieu des nouvelles technologies.
+Au programme : des conférences, des pitchs de startup ainsi qu’un show-room présentant les toutes dernières innovations technologiques.
 
+-Cyber@Hack
+L’école d’informatique Epitech et la société toulousaine ITrust, spécialisée en cybersécurité, sont à l’initiative, vendredi 23 septembre, de la troisième édition de Cyber@Hack : démonstrations de hacking pour présenter les nouvelles cyber menaces, conférences autour de la protection des objets connectés, compétition de hacking…
 
+-BigUp 4 Startup
+Il est encore temps de candidater ! Clôture des dossiers le jeudi 22 à minuit. BigUp 4 Startup permet à de jeunes entrepreneurs de rencontrer des grands groupes (Airbus, Société Générale, La Poste…) pour répondre à leurs besoins.
+Objectif : favoriser la signature de contrats.
 
-
+-La Mêlée Numérique
+Du 26 septembre au 1er octobre, La Mêlée programme plusieurs événements : animations lundi 26 et mardi 27 sur les allées Jules-Guesde, inauguration lundi 26, à 19 h, de la Cantine au Quai des Savoirs, Trophées de l’économie numérique le jeudi 29 à la Région…
+(source de l'info : https://actu.fr/occitanie/toulouse_31555/ce-sont-les-quatre-rendez-vous-high-tech-a-ne-pas-rater-sur-toulouse_3742328.html)
 
 
 
 
 
 12/Qui est Aaron Swartz ?
+
+
+
 13/Qu’est-ce que le projet GNU ?
 14/Quelles sont les différences entre le Http et le Https ?
 15/Qui est Richard Stallman ?
