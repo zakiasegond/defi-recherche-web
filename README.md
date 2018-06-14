@@ -159,7 +159,8 @@ HTTPS vérifie ainsi l’identité du site web auquel le navigateur accède grâ
 
 15/Qui est Richard Stallman ?
 
-
+Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+(https://fr.wikipedia.org/wiki/Richard_Stallman).
 
 
 16/Comment fonctionnent les bang de Duck Duck Go ?
