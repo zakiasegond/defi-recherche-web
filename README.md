@@ -147,10 +147,21 @@ Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin d
 
 
 
-
-
 14/Quelles sont les différences entre le Http et le Https ?
+
+Lorsque l’on visite une page Web, on s’aperçoit que l’adresse commence avec le texte suivant : http://. Cela signifie que la communication est en cours entre notre navigateur et le serveur mais qu’elle n’est pas sécurisée. C’est là qu’entre en jeu le « S » de HTTPS qui se traduit par « Security ». Un site débutant par le texte https:// protège votre connexion et empêche toute personne de venir jeter un œil sur votre conversation, entre votre ordinateur et le site web consulté.
+HTTPS vérifie ainsi l’identité du site web auquel le navigateur accède grâce à un certificat d’authentification. Généralisé sur les réseaux sociaux depuis seulement 6 ans, il est cependant déjà bien utilisé lorsqu’il s’agit de transactions financières en ligne, comme la banque en ligne ou le commerce électronique. C’est pourquoi il faut toujours veiller à ce détail avant de communiquer ses numéros de carte de crédit ou carte vitale sur un site lambda ! Une simple lettre peut faire toute la différence ! Notez cependant que le https à lui seul ne garanti pas la sécurité d’un site. Pour plus de sécurité, ne donnez vos informations personnelles que sur des sites de confiance.
+(https://www.lesveilleursdunet.com/blog/communication-web/difference-entre-http-et-https/).
+
+
+
+
+
 15/Qui est Richard Stallman ?
+
+
+
+
 16/Comment fonctionnent les bang de Duck Duck Go ?
 17/Qui est Marissa Mayer ?
 18/Qu’est-ce qu’une attaque “brute force” ?
