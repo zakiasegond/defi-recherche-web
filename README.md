@@ -163,8 +163,28 @@ Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous l
 (https://fr.wikipedia.org/wiki/Richard_Stallman).
 
 
+
+
+
 16/Comment fonctionnent les bang de Duck Duck Go ?
+
+DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations d'externalisation ouverte provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs,(adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
+DuckDuckGo a été en forte progression depuis l'affaire PRISM/XKeyscore ; son trafic le classe 1 152e au niveau mondial le 29 août 20135, selon le cabinet d'études Alexa. En juin 2015, il devient 508e.Il consacre une partie de ses revenus à financer des projets libres.
+(https://fr.wikipedia.org/wiki/DuckDuckGo).
+
+
+
+
+
 17/Qui est Marissa Mayer ?
+
+
+
+
+
+
+
 18/Qu’est-ce qu’une attaque “brute force” ?
 19/Qui est Linus Torvalds ?
     Quels sont ses plus grands développements ?
