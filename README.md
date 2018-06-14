@@ -221,6 +221,18 @@ Selon le registrar et l’extension choisie de votre nom de domaine, le prix d�
 
 
 21/Quels sont les différents services d'emailing disponibles ?
+
+La liste des logiciels e-mailing est longue et les plus connus sont4 :
+
+    Benchmark Email
+    eTarget eMailing
+    Oximailing
+    Sarbacane
+    Mailpro
+    SendinBlue
+    E-Missive
+    ActiveTrail
+
    Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
 22/Quelle est votre adress IP actuelle ?
